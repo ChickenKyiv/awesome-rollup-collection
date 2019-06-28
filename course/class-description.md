@@ -33,7 +33,7 @@ Latest major release of Babel is 7. And I didn't find many tutorials, that touch
 You need to know JS basics, Nodejs setup basics. How to install modules from npm and include them to your project using npm or yarn.
 
 
-
+http://robosparrow.github.io/2017/05/15/writing-a-quick-and-dirty-rollup-copy-plugin.html
 
 
 
