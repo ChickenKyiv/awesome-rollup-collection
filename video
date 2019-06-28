@@ -1,0 +1,33 @@
+https://www.youtube.com/watch?v=ZGa_a164aeM
+
+Our module should also ideally be written in isomorphic JavaScript, meaning that it should run in both browser and Node environments. Moreover, we should also deliver our code such that it can be executed in a global browser namespace, while also retaining backwards compatibility with legacy module systems, such as AMD or UMD. At the same time, we should strive for best performance with build tools like Webpack by enabling tree shaking in ES modules.
+
+With these critical constraints in mind, it sounds like we'd need to ship several bundles each geared towards a specific module system. For one, we will generate a CJS bundle and flag it as the main entry point in package.json https://docs.npmjs.com/files/package.... Next, we will produce an ESM build that will offer tree shaking out of the box with bundlers like Webpack, Parcel, or Browserify. Finally, we will also publish a UMD bundle on unpkg to support legacy formats like browser globals or RequireJS, thereby covering all platforms on the web and in NodeJS.
+
+Despite its popularity among SPAs, Webpack is rarely used when authoring JavaScript packages https://medium.com/webpack/webpack-an... The go-to bundler for NPM modules is Rollup https://rollupjs.org/guide/en Rollup excels at producing lean bundles and eliminating dead code. Tailored towards ES6 modules, it was the first bundler to introduce tree-shaking, which Webpack then picked up. Rollup also has an elaborate net of opt-in plugins, similar to loaders in Webpack. It's very straightforward to use, and I guarantee that you'll fall in love with it, just like I did. Let's give it a try!
+
+We're starting to tread on a territory in JavaScript that is still enveloped in fog and mystery. Many of the things I am about to reveal to you are only known in closed circles of gurus and oracles that hold their wisdom secret... I'm just kidding of course, but this arcane knowledge will probably unlock some of your finest skills in JavaScript, so please, attend to it with focus and care. Here are some selected readings to help you navigat
+
+e the module landscape in JavaScript.
+
+https://www.freecodecamp.org/news/javascript-modules-a-beginner-s-guide-783f7d7a5fcc/
+https://www.freecodecamp.org/news/javascript-modules-part-2-module-bundling-5020383cf306/
+https://www.freecodecamp.org/news/anatomy-of-js-module-systems-and-building-libraries-fadcd8dbd0e/
+
+https://github.com/rollup/rollup/wiki/ES6-modules
+
+
+
+----------
+https://www.youtube.com/watch?v=ICYLOZuFMz8
+https://lengstorf.com/code/learn-rollup-js/
+
+
+------
+use images/samples from there 
+https://www.youtube.com/watch?v=EU9j0IB-crA
+
+
+later: https://www.youtube.com/results?search_query=rollup+js
+
+https://www.youtube.com/watch?v=ICYLOZuFMz8
