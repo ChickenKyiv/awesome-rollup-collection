@@ -4,7 +4,7 @@ title: Babel
 sidebar_label: | Babel
 ---
 
-#### Babel
+<!-- #### Babel -->
 
 - [**Babel Handbook**](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/en/README.md)
 - [**All the cool stuff we have been doing**](https://medium.freecodecamp.org/were-nearing-the-7-0-babel-release-here-s-all-the-cool-stuff-we-ve-been-doing-8c1ade684039)
