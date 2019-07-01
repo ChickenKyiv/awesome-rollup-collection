@@ -14,3 +14,7 @@ https://developer.mozilla.org/en-US/docs/Mozilla/JavaScript_code_modules
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
 
 https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export
+
+
+
+https://www.grzegorowski.com/publishing-npm-package-with-rollup-babel-and/
