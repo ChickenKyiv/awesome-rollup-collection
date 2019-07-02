@@ -1,4 +1,16 @@
+
+@TODO Create a few practical tasks, related to basic Rollup homework. Like a create a simple module, install and use lodash, read file, generate file.
+
+---
+
+https://www.rithmschool.com/courses/javascript/javascript-arrays-exercise
+
+https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php
+
+---
+
 #### Class project  
+
 As we didn't touch a topic of how to publish your module on npm. You can read about it here - link.
 You'll need to publish all 3 modules at npm, so other people can use them at their projects, nodejs projects.
 
