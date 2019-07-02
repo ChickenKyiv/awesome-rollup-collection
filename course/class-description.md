@@ -20,7 +20,7 @@ Latest major release of Babel is 7. And I didn't find many tutorials, that touch
 3) setup & publish
 4) Why to use rollup if we have babel
 5) shx -> what it's about
-6) Jest tests + install+ configuration+connect with babel
+6) Jest tests + install + configuration + connect with babel
 7) rollup config + connect to babel
 8) if you create a React Component at your module, you'll also need to install an Enzyme + Adapter
 9) basic Travis CI configuration

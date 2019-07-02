@@ -1,18 +1,4 @@
-Generator --> create examples folder, where we show how we combine data, in order to have a different structures.
-
-Separated module, so you can install it, and pass your own dataset, or use data, that we have at our static data repository.
-
-
-Making generator as independent module will simplify our work with graphql server as well.
-We can generate files outside of sd for it.
-Using promises and callbacks --> so we can call generator inside at our express servers.
-First step for use generator at gs-gql will be items.
-Then we should test structure for MeasurementsSystems.
-
-
----
----
-
+#### Class project  
 As we didn't touch a topic of how to publish your module on npm. You can read about it here - link.
 You'll need to publish all 3 modules at npm, so other people can use them at their projects, nodejs projects.
 
