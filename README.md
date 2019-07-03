@@ -1,6 +1,6 @@
 # awesome-rollup-collection
 
-
+https://areknawo.com/whats-what-package-json-cheatsheet/
 
 https://scotch.io/tutorials/coding-exercise-build-javascript-array-methods-from-scratch
 
