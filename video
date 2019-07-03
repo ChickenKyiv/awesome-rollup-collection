@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=ZGa_a164aeM
+-[]() https://www.youtube.com/watch?v=ZGa_a164aeM
 
 Our module should also ideally be written in isomorphic JavaScript, meaning that it should run in both browser and Node environments. Moreover, we should also deliver our code such that it can be executed in a global browser namespace, while also retaining backwards compatibility with legacy module systems, such as AMD or UMD. At the same time, we should strive for best performance with build tools like Webpack by enabling tree shaking in ES modules.
 
@@ -19,13 +19,13 @@ https://github.com/rollup/rollup/wiki/ES6-modules
 
 
 ----------
-https://www.youtube.com/watch?v=ICYLOZuFMz8
+-[]() https://www.youtube.com/watch?v=ICYLOZuFMz8
 https://lengstorf.com/code/learn-rollup-js/
 
 
 ------
 use images/samples from there
-https://www.youtube.com/watch?v=EU9j0IB-crA
+-[]() https://www.youtube.com/watch?v=EU9j0IB-crA
 ![image](https://user-images.githubusercontent.com/1469198/60396626-ac2d9900-9b4c-11e9-8e36-1528febdc7b8.png)
 
 ![image](https://user-images.githubusercontent.com/1469198/60396631-be0f3c00-9b4c-11e9-80e4-09d2c288faea.png)
@@ -37,4 +37,7 @@ https://www.youtube.com/watch?v=EU9j0IB-crA
 
 later: https://www.youtube.com/results?search_query=rollup+js
 
-https://www.youtube.com/watch?v=ICYLOZuFMz8
+-[]() https://www.youtube.com/watch?v=ICYLOZuFMz8
+
+
+-[]() https://www.youtube.com/watch?v=bt1iOy9lv0U
