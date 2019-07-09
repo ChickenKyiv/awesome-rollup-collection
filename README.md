@@ -1,5 +1,7 @@
 # awesome-rollup-collection
 
+https://www.grzegorowski.com/publishing-npm-package-with-rollup-babel-and/
+
 https://areknawo.com/whats-what-package-json-cheatsheet/
 
 https://scotch.io/tutorials/coding-exercise-build-javascript-array-methods-from-scratch
